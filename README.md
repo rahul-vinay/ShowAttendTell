@@ -39,4 +39,4 @@ Refer to the detailed project report: `SAT Report.pdf`.
 
 ## 📬 **Contact**
 Developed by Rahul Vinay  
-Reach out: [Your Email]
+Reach out: rvinay102000@gmail.com
