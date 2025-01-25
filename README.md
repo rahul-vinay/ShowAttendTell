@@ -11,7 +11,7 @@ This project implements an adaptive attention mechanism for image captioning, in
 - **Evaluation**: BLEU scores to measure caption quality.
 
 
-                      <img width="577" alt="Image" src="https://github.com/user-attachments/assets/852c9ef4-c92b-4e63-92c9-829679c09f26" />
+  <img width="577" alt="Image" src="https://github.com/user-attachments/assets/852c9ef4-c92b-4e63-92c9-829679c09f26" />
 
 
 ---
