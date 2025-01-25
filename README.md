@@ -33,7 +33,7 @@ This project implements an adaptive attention mechanism for image captioning, in
 ---
 
 ## 📄 **For More Details**
-Refer to the detailed project report: `SAT Report.pdf`.
+Refer to the detailed presentation `SAT - Adaptive Attention.pptx` and project report: `SAT Report.pdf`.
 
 ---
 
