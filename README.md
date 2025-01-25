@@ -33,7 +33,7 @@ This project implements an adaptive attention mechanism for image captioning, in
 ---
 
 ## 📄 **For More Details**
-Refer to the detailed presentation [SAT - Adaptive Attention.pptx](https://github.com/rahul-vinay/ShowAttendTell/blob/main/SAT%20-%20Adaptive%20Attention.pptx) and project report: [SAT Report.pdf](https://github.com/rahul-vinay/ShowAttendTell/blob/main/SAT%20Report.pdf).
+Refer to the detailed presentation [SAT - Adaptive Attention](https://github.com/rahul-vinay/ShowAttendTell/blob/main/SAT%20-%20Adaptive%20Attention.pptx) and project report: [SAT Report](https://github.com/rahul-vinay/ShowAttendTell/blob/main/SAT%20Report.pdf).
 
 ---
 
